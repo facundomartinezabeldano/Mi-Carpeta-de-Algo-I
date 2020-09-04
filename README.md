@@ -2,7 +2,7 @@
 Mi carpeta de Algo 1 la parte del Taller
 
 
-#Estructura de mi carpeta
+# Estructura de mi carpeta
 
 ```
 
