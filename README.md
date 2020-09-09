@@ -2,7 +2,7 @@
 Mi carpeta de Algo 1 la parte del Taller
 
 
-# Estructura de mi carpeta
+# Estructura de mi carpeta 🧸
 
 ```
 
@@ -13,3 +13,5 @@ Mi carpeta de Algo 1 la parte del Taller
     └── clase n
 
 ```
+
+En cada carpeta esta la guia y el proyecto CMAKE
